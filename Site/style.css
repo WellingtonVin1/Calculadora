@@ -1,0 +1,40 @@
+body {
+    font-size: 15pt;
+    background: black;
+    font-style: bold;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2F4F4F;
+    padding: 1px 1px;
+    border-radius: 10px;
+}
+
+h6 {
+    color: #008080;
+}
+
+
+p {
+    color: #008080;
+}
+
+
+video {
+    position: fixed;
+    top: 50%;
+    left:50%;
+    width: 50%;
+    height: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    background: black;
+}
+article {
+    display: flex;
+    align-items: center;
+    font-family: sans-serif;
+    color: white;
+}
