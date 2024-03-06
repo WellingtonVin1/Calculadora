@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.calculadora {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(0, 0, 0, 0.2);
+    background-color: skyblue;
+}
+
+button {
+    font-size: 15px;
+    margin: 5px;
+    width: 48px;
+    height: 48px;
+    border: 0.5px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgb(0, 0, 0, 0.2);
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
